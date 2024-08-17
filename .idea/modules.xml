@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ucgenCizdirme.iml" filepath="$PROJECT_DIR$/.idea/ucgenCizdirme.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" filepath="$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" />
+>>>>>>> b305a10 (ilk hal)
     </modules>
   </component>
 </project>
