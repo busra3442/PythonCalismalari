@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ucgenCizdirme.iml" filepath="$PROJECT_DIR$/.idea/ucgenCizdirme.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" filepath="$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" />
 >>>>>>> b305a10 (ilk hal)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/basit_bankamatik.iml" filepath="$PROJECT_DIR$/.idea/basit_bankamatik.iml" />
+>>>>>>> 56a56cc (ilk versiyon)
     </modules>
   </component>
 </project>

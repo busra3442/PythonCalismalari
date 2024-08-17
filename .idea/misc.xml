@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
 <<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (ucgenCizdirme)" />
@@ -10,4 +11,7 @@
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (km-mil_donusturucu)" project-jdk-type="Python SDK" />
 >>>>>>> b305a10 (ilk hal)
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (basit_bankamatik)" project-jdk-type="Python SDK" />
+>>>>>>> 56a56cc (ilk versiyon)
 </project>
