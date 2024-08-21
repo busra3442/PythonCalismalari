@@ -4,6 +4,7 @@
     <modules>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ucgenCizdirme.iml" filepath="$PROJECT_DIR$/.idea/ucgenCizdirme.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" filepath="$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" />
@@ -11,6 +12,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/basit_bankamatik.iml" filepath="$PROJECT_DIR$/.idea/basit_bankamatik.iml" />
 >>>>>>> 56a56cc (ilk versiyon)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/yuzde_hesabi.iml" filepath="$PROJECT_DIR$/.idea/yuzde_hesabi.iml" />
+>>>>>>> e751ea0 (initial commit)
     </modules>
   </component>
 </project>
