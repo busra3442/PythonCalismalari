@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="Black">
 <<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (ucgenCizdirme)" />
@@ -28,4 +29,10 @@
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (baslangicSeviyeProjeler)" project-jdk-type="Python SDK" />
 >>>>>>> da886b6 (ilk)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (yildizli_agac)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (yildizli_agac)" project-jdk-type="Python SDK" />
+>>>>>>> 6811653 (ilk)
 </project>
