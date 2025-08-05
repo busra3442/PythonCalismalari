@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ucgenCizdirme.iml" filepath="$PROJECT_DIR$/.idea/ucgenCizdirme.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" filepath="$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" />
@@ -23,6 +24,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/.idea/yildizli_agac.iml" filepath="$PROJECT_DIR$/.idea/yildizli_agac.iml" />
 >>>>>>> 6811653 (ilk)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/sifre_uretme.iml" filepath="$PROJECT_DIR$/.idea/sifre_uretme.iml" />
+>>>>>>> 526ca89 (initial commit)
     </modules>
   </component>
 </project>
