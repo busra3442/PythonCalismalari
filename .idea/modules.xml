@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Qr_kod.iml" filepath="$PROJECT_DIR$/.idea/Qr_kod.iml" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/ucgenCizdirme.iml" filepath="$PROJECT_DIR$/.idea/ucgenCizdirme.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" filepath="$PROJECT_DIR$/.idea/km-mil_donusturucu.iml" />
+>>>>>>> b305a10 (ilk hal)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/basit_bankamatik.iml" filepath="$PROJECT_DIR$/.idea/basit_bankamatik.iml" />
+>>>>>>> 56a56cc (ilk versiyon)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/yuzde_hesabi.iml" filepath="$PROJECT_DIR$/.idea/yuzde_hesabi.iml" />
+>>>>>>> e751ea0 (initial commit)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/baslangicSeviyeProjeler.iml" filepath="$PROJECT_DIR$/.idea/baslangicSeviyeProjeler.iml" />
+>>>>>>> da886b6 (ilk)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/yildizli_agac.iml" filepath="$PROJECT_DIR$/.idea/yildizli_agac.iml" />
+>>>>>>> 6811653 (ilk)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/sifre_uretme.iml" filepath="$PROJECT_DIR$/.idea/sifre_uretme.iml" />
+>>>>>>> 526ca89 (initial commit)
+>>>>>>> 68d835c3b4ca5cce556ef3cdad7a3977f9a236b3
     </modules>
   </component>
 </project>

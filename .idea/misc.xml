@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (Qr_kod)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Qr_kod)" project-jdk-type="Python SDK" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.12 (ucgenCizdirme)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (ucgenCizdirme)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (km-mil_donusturucu)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (km-mil_donusturucu)" project-jdk-type="Python SDK" />
+>>>>>>> b305a10 (ilk hal)
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (basit_bankamatik)" project-jdk-type="Python SDK" />
+>>>>>>> 56a56cc (ilk versiyon)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (yuzde_hesabi)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (yuzde_hesabi)" project-jdk-type="Python SDK" />
+>>>>>>> e751ea0 (initial commit)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (baslangicSeviyeProjeler)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (baslangicSeviyeProjeler)" project-jdk-type="Python SDK" />
+>>>>>>> da886b6 (ilk)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (yildizli_agac)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (yildizli_agac)" project-jdk-type="Python SDK" />
+>>>>>>> 6811653 (ilk)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (sifre_uretme)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (sifre_uretme)" project-jdk-type="Python SDK" />
+>>>>>>> 526ca89 (initial commit)
+>>>>>>> 68d835c3b4ca5cce556ef3cdad7a3977f9a236b3
 </project>
