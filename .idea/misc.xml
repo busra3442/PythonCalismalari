@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (kitap_okuma_aliskanligi)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (kitap_okuma_aliskanligi)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (adres_defteri)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (adres_defteri)" project-jdk-type="Python SDK" />
+>>>>>>> 6fc27dca517bb3024c56cb6e24807ac9bd3e281c
 </project>
